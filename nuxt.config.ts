@@ -4,6 +4,6 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   extends: "@nuxt-themes/docus",
   nitro: {
-    preset: "node-server",
+    preset: "vercel-edge",
   },
 })
