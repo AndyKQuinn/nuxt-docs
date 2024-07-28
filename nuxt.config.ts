@@ -3,4 +3,7 @@ export default defineNuxtConfig({
   compatibilityDate: "2024-04-03",
   devtools: { enabled: true },
   extends: "@nuxt-themes/docus",
+  nitro: {
+    preset: "node-server",
+  },
 })
