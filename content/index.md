@@ -7,4 +7,6 @@ Hello! Bienvenudo!
 
 ::alert{type="info"}
 This is an informational message! What the hell? This is wild...
+
+\<Badge />
 ::
