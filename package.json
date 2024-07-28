@@ -11,7 +11,9 @@
   },
   "dependencies": {
     "@nuxt-themes/docus": "^1.15.0",
-    "nuxt": "^3.12.4",
     "vue": "latest"
+  },
+  "devDependencies": {
+    "nuxt": "^3.12.4"
   }
 }
